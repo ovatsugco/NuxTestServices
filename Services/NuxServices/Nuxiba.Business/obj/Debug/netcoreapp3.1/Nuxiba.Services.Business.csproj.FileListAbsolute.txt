@@ -1,0 +1,14 @@
+C:\TestNux\Services\NuxServices\Nuxiba.Business\bin\Debug\netcoreapp3.1\Nuxiba.Services.Business.deps.json
+C:\TestNux\Services\NuxServices\Nuxiba.Business\bin\Debug\netcoreapp3.1\Nuxiba.Services.Business.dll
+C:\TestNux\Services\NuxServices\Nuxiba.Business\bin\Debug\netcoreapp3.1\Nuxiba.Services.Business.pdb
+C:\TestNux\Services\NuxServices\Nuxiba.Business\bin\Debug\netcoreapp3.1\Nuxiba.Services.Entity.dll
+C:\TestNux\Services\NuxServices\Nuxiba.Business\bin\Debug\netcoreapp3.1\Nuxiba.Services.WsDataAccess.dll
+C:\TestNux\Services\NuxServices\Nuxiba.Business\bin\Debug\netcoreapp3.1\Nuxiba.Services.Entity.pdb
+C:\TestNux\Services\NuxServices\Nuxiba.Business\bin\Debug\netcoreapp3.1\Nuxiba.Services.WsDataAccess.pdb
+C:\TestNux\Services\NuxServices\Nuxiba.Business\obj\Debug\netcoreapp3.1\Nuxiba.Services.Business.csprojAssemblyReference.cache
+C:\TestNux\Services\NuxServices\Nuxiba.Business\obj\Debug\netcoreapp3.1\Nuxiba.Services.Business.AssemblyInfoInputs.cache
+C:\TestNux\Services\NuxServices\Nuxiba.Business\obj\Debug\netcoreapp3.1\Nuxiba.Services.Business.AssemblyInfo.cs
+C:\TestNux\Services\NuxServices\Nuxiba.Business\obj\Debug\netcoreapp3.1\Nuxiba.Services.Business.csproj.CoreCompileInputs.cache
+C:\TestNux\Services\NuxServices\Nuxiba.Business\obj\Debug\netcoreapp3.1\Nuxiba.Services.Business.csproj.CopyComplete
+C:\TestNux\Services\NuxServices\Nuxiba.Business\obj\Debug\netcoreapp3.1\Nuxiba.Services.Business.dll
+C:\TestNux\Services\NuxServices\Nuxiba.Business\obj\Debug\netcoreapp3.1\Nuxiba.Services.Business.pdb

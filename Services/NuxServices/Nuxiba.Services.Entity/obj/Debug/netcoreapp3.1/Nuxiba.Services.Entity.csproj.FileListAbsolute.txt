@@ -1,0 +1,9 @@
+C:\TestNux\Services\NuxServices\Nuxiba.Services.Entity\bin\Debug\netcoreapp3.1\Nuxiba.Services.Entity.deps.json
+C:\TestNux\Services\NuxServices\Nuxiba.Services.Entity\bin\Debug\netcoreapp3.1\Nuxiba.Services.Entity.dll
+C:\TestNux\Services\NuxServices\Nuxiba.Services.Entity\bin\Debug\netcoreapp3.1\Nuxiba.Services.Entity.pdb
+C:\TestNux\Services\NuxServices\Nuxiba.Services.Entity\obj\Debug\netcoreapp3.1\Nuxiba.Services.Entity.csprojAssemblyReference.cache
+C:\TestNux\Services\NuxServices\Nuxiba.Services.Entity\obj\Debug\netcoreapp3.1\Nuxiba.Services.Entity.AssemblyInfoInputs.cache
+C:\TestNux\Services\NuxServices\Nuxiba.Services.Entity\obj\Debug\netcoreapp3.1\Nuxiba.Services.Entity.AssemblyInfo.cs
+C:\TestNux\Services\NuxServices\Nuxiba.Services.Entity\obj\Debug\netcoreapp3.1\Nuxiba.Services.Entity.csproj.CoreCompileInputs.cache
+C:\TestNux\Services\NuxServices\Nuxiba.Services.Entity\obj\Debug\netcoreapp3.1\Nuxiba.Services.Entity.dll
+C:\TestNux\Services\NuxServices\Nuxiba.Services.Entity\obj\Debug\netcoreapp3.1\Nuxiba.Services.Entity.pdb

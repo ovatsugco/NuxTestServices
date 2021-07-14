@@ -1,0 +1,12 @@
+C:\TestNux\Services\NuxServices\Nuxiba.WsDataAccess\bin\Debug\netcoreapp3.1\Nuxiba.Services.WsDataAccess.deps.json
+C:\TestNux\Services\NuxServices\Nuxiba.WsDataAccess\bin\Debug\netcoreapp3.1\Nuxiba.Services.WsDataAccess.dll
+C:\TestNux\Services\NuxServices\Nuxiba.WsDataAccess\bin\Debug\netcoreapp3.1\Nuxiba.Services.WsDataAccess.pdb
+C:\TestNux\Services\NuxServices\Nuxiba.WsDataAccess\bin\Debug\netcoreapp3.1\Nuxiba.Services.Entity.dll
+C:\TestNux\Services\NuxServices\Nuxiba.WsDataAccess\bin\Debug\netcoreapp3.1\Nuxiba.Services.Entity.pdb
+C:\TestNux\Services\NuxServices\Nuxiba.WsDataAccess\obj\Debug\netcoreapp3.1\Nuxiba.Services.WsDataAccess.csprojAssemblyReference.cache
+C:\TestNux\Services\NuxServices\Nuxiba.WsDataAccess\obj\Debug\netcoreapp3.1\Nuxiba.Services.WsDataAccess.AssemblyInfoInputs.cache
+C:\TestNux\Services\NuxServices\Nuxiba.WsDataAccess\obj\Debug\netcoreapp3.1\Nuxiba.Services.WsDataAccess.AssemblyInfo.cs
+C:\TestNux\Services\NuxServices\Nuxiba.WsDataAccess\obj\Debug\netcoreapp3.1\Nuxiba.Services.WsDataAccess.csproj.CoreCompileInputs.cache
+C:\TestNux\Services\NuxServices\Nuxiba.WsDataAccess\obj\Debug\netcoreapp3.1\Nuxiba.Services.WsDataAccess.csproj.CopyComplete
+C:\TestNux\Services\NuxServices\Nuxiba.WsDataAccess\obj\Debug\netcoreapp3.1\Nuxiba.Services.WsDataAccess.dll
+C:\TestNux\Services\NuxServices\Nuxiba.WsDataAccess\obj\Debug\netcoreapp3.1\Nuxiba.Services.WsDataAccess.pdb

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "uBDy4PMUFokczNVL3MvaQtoONqxL6Bktr8y75wB5SHOID+PkWzMI2O+k+Gvr2XtQ7a5eDC7thc5uWNSYwPSIeQ==",
+  "success": true,
+  "projectFilePath": "C:\\TestNux\\Services\\NuxServices\\Nuxiba.Business\\Nuxiba.Services.Business.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Gustavo Ortega\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

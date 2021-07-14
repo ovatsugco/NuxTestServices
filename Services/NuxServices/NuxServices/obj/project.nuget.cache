@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "6D/x8F0Eu2Nq4S9z/LEHvsr7YHPi9mtyiR3OIOn8+HLJQsFfxYetVhCIfBgagm6jvXYBqs6hnaAuX2LhcRL1Vg==",
+  "success": true,
+  "projectFilePath": "C:\\TestNux\\Services\\NuxServices\\NuxServices\\NuxServices.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Gustavo Ortega\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
